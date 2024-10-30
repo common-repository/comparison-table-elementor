@@ -1,0 +1,16 @@
+{
+    "name": "dwp/muhibul",
+    "description": "An excellent plugins to create comparison table on Elementor page builder.",
+    "license": "GPLV2",
+    "autoload": {
+        "psr-4": {
+            "Cte\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhibul Haque"
+        }
+    ],
+    "require": {}
+}
